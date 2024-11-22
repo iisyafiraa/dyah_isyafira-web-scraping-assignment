@@ -5,4 +5,4 @@ Pada assignment ini, dilakukan web scraping pada 2 website berbeda untuk mengamb
 2. Website Produk Fashion (Cotton Ink) (https://cottonink.co.id/collections/women)
    Tujuan: Mengambil data produk fashion wanita, seperti nama produk, harga, dan URL produk
 
-Proses scraping dilakukan menggunakan modul requests untuk mengunduh konten halaman web dan BeautifulSoup untuk parsing HTML agar dapat mengekstrak data yang diperlukan. Data yang berhasil diambil kemudian disusun dalam format yang lebih terstruktur menggunakan pandas untuk analisis lebih lanjut.
+Proses scraping dilakukan menggunakan modul requests untuk mengunduh konten halaman web dan BeautifulSoup untuk parsing HTML agar dapat mengekstrak data yang diperlukan. Data yang berhasil diambil kemudian disimpan dalam bentuk CSV di Google Drive menggunakan pandas untuk analisis lebih lanjut.
